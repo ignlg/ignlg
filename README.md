@@ -8,6 +8,9 @@
 <a href="https://github.com/ignlg/heap-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignlg&repo=heap-js&theme=dark" />
 </a>
+<a href="https://github.com/ignlg/simplify-path-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignlg&repo=simplify-path-js&theme=dark" />
+</a>
 <a href="https://github.com/ignlg/pingkeeper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ignlg&repo=pingkeeper&theme=dark" />
 </a>
